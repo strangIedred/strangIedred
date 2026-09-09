@@ -1,8 +1,5 @@
 <div align="center">
 
-
-wip
-
 </p>
 
 <br>
